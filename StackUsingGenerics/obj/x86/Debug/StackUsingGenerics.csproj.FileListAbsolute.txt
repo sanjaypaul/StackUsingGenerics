@@ -1,0 +1,5 @@
+E:\OOP0151-Evening\20-Jan-2015\StackUsingGenerics\StackUsingGenerics\bin\Debug\StackUsingGenerics.exe
+E:\OOP0151-Evening\20-Jan-2015\StackUsingGenerics\StackUsingGenerics\bin\Debug\StackUsingGenerics.pdb
+E:\OOP0151-Evening\20-Jan-2015\StackUsingGenerics\StackUsingGenerics\obj\x86\Debug\StackUsingGenerics.csprojResolveAssemblyReference.cache
+E:\OOP0151-Evening\20-Jan-2015\StackUsingGenerics\StackUsingGenerics\obj\x86\Debug\StackUsingGenerics.exe
+E:\OOP0151-Evening\20-Jan-2015\StackUsingGenerics\StackUsingGenerics\obj\x86\Debug\StackUsingGenerics.pdb
